@@ -4,3 +4,7 @@ Collaborateur:
                   DRAME      Serigne Aliou (chef de projet)
                    OSMANI    Danyl    (scrum master)
                               Mouhamed Salim (product owner)
+    <DOCTYPE html>
+<html>
+  
+</html>
