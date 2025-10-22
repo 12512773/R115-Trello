@@ -1,5 +1,6 @@
 # R115-Trello
 
-Collaborateur:    DRAME      Serigne Aliou
-                   OSMANI    Danyl    
-                              Mouhamed Salim
+Collaborateur:    
+                  DRAME      Serigne Aliou (chef de projet)
+                   OSMANI    Danyl    (scrum master)
+                              Mouhamed Salim (product owner)
